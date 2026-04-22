@@ -1,3 +1,4 @@
+// Sample login test for SauceDemo - Lesson 1 Git workflow practice
 import { test, expect } from '@playwright/test';
 
 test('user can login with valid credentials', async ({ page }) => {
